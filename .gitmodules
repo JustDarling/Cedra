@@ -1,0 +1,3 @@
+[submodule "Cedra/vendor/spdlog"]
+	path = Cedra/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
